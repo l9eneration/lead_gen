@@ -1,0 +1,29 @@
+{
+    "companies":[
+       {
+          "name":"YouTube",
+          "website":"youtube.com",
+          "number_employees":1000,
+          "jobs":[
+             "CEO",
+             "GO developer"
+          ],
+          "job_owner":[
+             "CEO",
+             "HR"
+          ]
+       },
+       {
+          "name":"Google",
+          "website":"google.com",
+          "number_employees":10000,
+          "jobs":[
+             "CEO",
+             "GO developer"
+          ],
+          "location":[
+             "remote"
+          ]
+       }
+    ]
+ }
